@@ -1,0 +1,14 @@
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\Bet365.dll
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\Bet365.pdb
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\obj\Debug\Bet365.dll
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\obj\Debug\Bet365.pdb
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\obj\Debug\Bet365.csprojResolveAssemblyReference.cache
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\FNet.dll
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\FNet.pdb
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\NewLife.Core.dll
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\NewLife.Net.dll
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\NewLife.Core.pdb
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\NewLife.Core.xml
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\NewLife.Net.pdb
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\NewLife.Net.xml
+F:\mycode\DotNet\Bet365_Full2DB\BET365足球走地赛事入库\Bet365\bin\Debug\zlib.net.dll
